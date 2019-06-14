@@ -1,29 +1,8 @@
-# vuejs
+# VueJs, the beginner's journey
 
-## Project setup
-```
-npm install
-```
+Talk for people who want to learn Vue.Js, or see what it's like.
 
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
+## Files
 
-### Compiles and minifies for production
-```
-npm run build
-```
-
-### Run your tests
-```
-npm run test
-```
-
-### Lints and fixes files
-```
-npm run lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+* `slides.html` are the slides created on https://slides.com
+* `live-coding` is the live coding part of the talk, finished (in case of emergency)
